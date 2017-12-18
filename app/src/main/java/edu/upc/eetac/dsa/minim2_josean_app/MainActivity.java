@@ -3,6 +3,8 @@ package edu.upc.eetac.dsa.minim2_josean_app;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import edu.upc.eetac.dsa.minim2_josean_app.R;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
